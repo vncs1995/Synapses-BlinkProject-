@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\layout-v21\\accept_deny_dialog.xml",
+        "source": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\layout-v21\\accept_deny_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\layout-v21\\dismiss_overlay.xml",
+        "source": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\layout-v21\\dismiss_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\layout-v21\\overlay_confirmation.xml",
+        "source": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\layout-v21\\overlay_confirmation.xml"
+    }
+]

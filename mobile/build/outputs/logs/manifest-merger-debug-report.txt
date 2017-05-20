@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:5:22-65
+application
+ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\guith\.android\build-cache\c7e3e92f6f1ad73b00d2817a4fc8b0055946ccb5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\guith\.android\build-cache\08f1548d31df438c3e2ae0931f50dce9d1aee757\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\guith\.android\build-cache\4e9512bd04889ce634cf90d7e73dbe53075b3fac\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\guith\.android\build-cache\309209be8185703afba9df9067790561e44053d2\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\guith\.android\build-cache\867426e9757cd1c0c5258894d266f3083f9326bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\guith\.android\build-cache\6f595e030220e24543fe9b839a69a655c1afe025\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\guith\.android\build-cache\bbe935f611a1dbb6ce2341aa2cf35719dce74c35\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\guith\.android\build-cache\ad2bb3e1b9f88c611f145a97bf326a9bc96354ab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\guith\.android\build-cache\a4c64c719ddf3b4c73c4f5b97ca674ddeefb4222\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\guith\.android\build-cache\66dd06380199baa81984b69315c957b42fb9ad81\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\guith\.android\build-cache\94337520fa020a1fb87c2245b09b3c0323907958\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\guith\.android\build-cache\00cdee95852cb82a3afcaec9abeff4d7e2854fc9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\guith\.android\build-cache\51192e4aee390065e408a672d9bf60d61641ec7e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\guith\.android\build-cache\8fc2722f33c89146c4a58a82d0064594b1366ac4\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.guith.mibandblink.MainActivity
+ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:18:27-74
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml:23:22-65
+uses-sdk
+INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\guith\.android\build-cache\c7e3e92f6f1ad73b00d2817a4fc8b0055946ccb5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\guith\.android\build-cache\08f1548d31df438c3e2ae0931f50dce9d1aee757\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\guith\.android\build-cache\4e9512bd04889ce634cf90d7e73dbe53075b3fac\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\guith\.android\build-cache\309209be8185703afba9df9067790561e44053d2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\guith\.android\build-cache\867426e9757cd1c0c5258894d266f3083f9326bf\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\guith\.android\build-cache\6f595e030220e24543fe9b839a69a655c1afe025\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\guith\.android\build-cache\bbe935f611a1dbb6ce2341aa2cf35719dce74c35\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\guith\.android\build-cache\ad2bb3e1b9f88c611f145a97bf326a9bc96354ab\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\guith\.android\build-cache\a4c64c719ddf3b4c73c4f5b97ca674ddeefb4222\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\guith\.android\build-cache\66dd06380199baa81984b69315c957b42fb9ad81\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\guith\.android\build-cache\94337520fa020a1fb87c2245b09b3c0323907958\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\guith\.android\build-cache\00cdee95852cb82a3afcaec9abeff4d7e2854fc9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\guith\.android\build-cache\51192e4aee390065e408a672d9bf60d61641ec7e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\guith\.android\build-cache\8fc2722f33c89146c4a58a82d0064594b1366ac4\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\guith\.android\build-cache\867426e9757cd1c0c5258894d266f3083f9326bf\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\guith\.android\build-cache\08f1548d31df438c3e2ae0931f50dce9d1aee757\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\guith\.android\build-cache\08f1548d31df438c3e2ae0931f50dce9d1aee757\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\guith\.android\build-cache\08f1548d31df438c3e2ae0931f50dce9d1aee757\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\guith\.android\build-cache\08f1548d31df438c3e2ae0931f50dce9d1aee757\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\guith\.android\build-cache\309209be8185703afba9df9067790561e44053d2\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\guith\.android\build-cache\309209be8185703afba9df9067790561e44053d2\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\guith\.android\build-cache\309209be8185703afba9df9067790561e44053d2\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\guith\.android\build-cache\867426e9757cd1c0c5258894d266f3083f9326bf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\guith\.android\build-cache\6f595e030220e24543fe9b839a69a655c1afe025\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\guith\.android\build-cache\bbe935f611a1dbb6ce2341aa2cf35719dce74c35\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\guith\.android\build-cache\ad2bb3e1b9f88c611f145a97bf326a9bc96354ab\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\guith\.android\build-cache\a4c64c719ddf3b4c73c4f5b97ca674ddeefb4222\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\guith\.android\build-cache\66dd06380199baa81984b69315c957b42fb9ad81\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\guith\.android\build-cache\94337520fa020a1fb87c2245b09b3c0323907958\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\guith\.android\build-cache\00cdee95852cb82a3afcaec9abeff4d7e2854fc9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\guith\.android\build-cache\51192e4aee390065e408a672d9bf60d61641ec7e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\guith\.android\build-cache\867426e9757cd1c0c5258894d266f3083f9326bf\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\guith\.android\build-cache\867426e9757cd1c0c5258894d266f3083f9326bf\output\AndroidManifest.xml:26:9-47

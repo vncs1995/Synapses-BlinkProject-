@@ -1,0 +1,7 @@
+#Sat May 20 17:37:04 BRT 2017
+base.0=C\:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6c5a978aa0546b31a33b5120f46bf1910502b9b3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8be79345b667fe51fa72b64b4e2e5502edb67b4a\\classes.dex
+base.1=C\:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8be79345b667fe51fa72b64b4e2e5502edb67b4a
+file.0=C\:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6c5a978aa0546b31a33b5120f46bf1910502b9b3\\classes.dex

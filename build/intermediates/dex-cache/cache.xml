@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8be79345b667fe51fa72b64b4e2e5502edb67b4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\08f1548d31df438c3e2ae0931f50dce9d1aee757\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f30016a9ac79ba411d0750399c251ab583138260\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\c7e3e92f6f1ad73b00d2817a4fc8b0055946ccb5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e84c5b5c07b1910ebed3cd126ea2545c16c9ea05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\a4c64c719ddf3b4c73c4f5b97ca674ddeefb4222\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b95031bd995af74a3366739995630f88e1c929ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="159b42657588ee1da67a131716cca0f8825f20aa">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6c5a978aa0546b31a33b5120f46bf1910502b9b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\66dd06380199baa81984b69315c957b42fb9ad81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee086dd821833f0f0ecb41b9ec610d0ddc3f5689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\4e9512bd04889ce634cf90d7e73dbe53075b3fac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e1da6b2bf8dbc6f36d200349bb76f246ef38a51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\51192e4aee390065e408a672d9bf60d61641ec7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7936846fc396529522f53b808940753ab32ce984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\867426e9757cd1c0c5258894d266f3083f9326bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1129f685da1ccd7263fdd9d57d988cbb728acfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\00cdee95852cb82a3afcaec9abeff4d7e2854fc9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f80ac5e9ff2b271c07d8ebe7b9d1bb82a45505c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\bbe935f611a1dbb6ce2341aa2cf35719dce74c35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a60a5f28a21ef2fa7a33413dbf7710d1709ed73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_f95e68f982677d7e7aa7302e15124a570076303c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\94337520fa020a1fb87c2245b09b3c0323907958\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb54618d5363a837689b31b9e0819ec23f306012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\ad2bb3e1b9f88c611f145a97bf326a9bc96354ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cdccc9db5abf9cdfabff09c1671ed760386b195a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\309209be8185703afba9df9067790561e44053d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5f0ac8ff90b5812e2212ef530f3a7acace3525e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_b354c3e413edc9d1e193fa64afc4d67a95af6931\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\6f595e030220e24543fe9b839a69a655c1afe025\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58a21567a10ce492e5256cae668261e4e6afab44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\guith\.android\build-cache\8fc2722f33c89146c4a58a82d0064594b1366ac4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a718d015043382262432f209b167d156aa19080\classes.dex" />
+    </item>
+
+</items>
