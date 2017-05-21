@@ -3,165 +3,309 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8be79345b667fe51fa72b64b4e2e5502edb67b4a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\08f1548d31df438c3e2ae0931f50dce9d1aee757\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f30016a9ac79ba411d0750399c251ab583138260\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\c7e3e92f6f1ad73b00d2817a4fc8b0055946ccb5\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e84c5b5c07b1910ebed3cd126ea2545c16c9ea05\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\a4c64c719ddf3b4c73c4f5b97ca674ddeefb4222\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b95031bd995af74a3366739995630f88e1c929ac\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="159b42657588ee1da67a131716cca0f8825f20aa">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6c5a978aa0546b31a33b5120f46bf1910502b9b3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\66dd06380199baa81984b69315c957b42fb9ad81\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee086dd821833f0f0ecb41b9ec610d0ddc3f5689\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\4e9512bd04889ce634cf90d7e73dbe53075b3fac\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e1da6b2bf8dbc6f36d200349bb76f246ef38a51\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\51192e4aee390065e408a672d9bf60d61641ec7e\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7936846fc396529522f53b808940753ab32ce984\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\867426e9757cd1c0c5258894d266f3083f9326bf\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1129f685da1ccd7263fdd9d57d988cbb728acfb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\00cdee95852cb82a3afcaec9abeff4d7e2854fc9\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f80ac5e9ff2b271c07d8ebe7b9d1bb82a45505c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\bbe935f611a1dbb6ce2341aa2cf35719dce74c35\output\jars\classes.jar"
+        jar="/Users/vinicius/.android/build-cache/f697db1fbeb803f286cca07227104ba5fa260ee6/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a60a5f28a21ef2fa7a33413dbf7710d1709ed73\classes.dex" />
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12079b6fe84f251313e214f86187f1237c546580/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\guith\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_f95e68f982677d7e7aa7302e15124a570076303c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\94337520fa020a1fb87c2245b09b3c0323907958\output\jars\classes.jar"
+        jar="/Users/vinicius/.android/build-cache/d35ead8065c53ffac67dc6b4f1d3326d220c210e/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb54618d5363a837689b31b9e0819ec23f306012\classes.dex" />
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4bc6d51979ec53f8cd7d09aedfd30cf3a0b601f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_547b2931199e2447624f55e33d3c6c02465e3f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/f697db1fbeb803f286cca07227104ba5fa260ee6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_12079b6fe84f251313e214f86187f1237c546580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/d35ead8065c53ffac67dc6b4f1d3326d220c210e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_c4bc6d51979ec53f8cd7d09aedfd30cf3a0b601f.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\ad2bb3e1b9f88c611f145a97bf326a9bc96354ab\output\jars\classes.jar"
+        jar="/Users/vinicius/.android/build-cache/7c170b312449f4be00f79123d73683898f5691e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2a81a4f8621ea11e4b5ca007c4bab5a04645398/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/e556d28449116b3485912cde362f83671d128962/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_d0f06044f658203d159d59bf62c62401ebc9aeb9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/.android/build-cache/ef0efc14e064f420d8ea083ce570eb005df11379/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61969aea1cb86773f379cf5e988be4920196096e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/99a4a1848ca039173b65531364c939b240e9e352/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_fbcb06489814843048de69a6ae177013f4e0a1cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/ef0efc14e064f420d8ea083ce570eb005df11379/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_61969aea1cb86773f379cf5e988be4920196096e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/.android/build-cache/7064d85a14e877bea05e6d1febdb834346e4fe2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39f8c06ac764826f7989b4f1934ce289a67d9c33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/.android/build-cache/99a4a1848ca039173b65531364c939b240e9e352/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cdccc9db5abf9cdfabff09c1671ed760386b195a\classes.dex" />
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbcb06489814843048de69a6ae177013f4e0a1cb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\309209be8185703afba9df9067790561e44053d2\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5f0ac8ff90b5812e2212ef530f3a7acace3525e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_b354c3e413edc9d1e193fa64afc4d67a95af6931\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\6f595e030220e24543fe9b839a69a655c1afe025\output\jars\classes.jar"
+        jar="/Users/vinicius/.android/build-cache/e556d28449116b3485912cde362f83671d128962/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58a21567a10ce492e5256cae668261e4e6afab44\classes.dex" />
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0f06044f658203d159d59bf62c62401ebc9aeb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/7c170b312449f4be00f79123d73683898f5691e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_f2a81a4f8621ea11e4b5ca007c4bab5a04645398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/7064d85a14e877bea05e6d1febdb834346e4fe2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_39f8c06ac764826f7989b4f1934ce289a67d9c33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/6899a5ad04bbdc6585f602cc83db6e573fa63a34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_19d5f32208f791d5e8414482cdadd28997793882.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\guith\.android\build-cache\8fc2722f33c89146c4a58a82d0064594b1366ac4\output\jars\classes.jar"
+        jar="/Users/vinicius/.android/build-cache/6899a5ad04bbdc6585f602cc83db6e573fa63a34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19d5f32208f791d5e8414482cdadd28997793882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/.android/build-cache/138e93243896e5dd45e7650c82ddffba73a45f2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3c22104b21ba74eb41424a3889d9a2a5882ad51/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/138e93243896e5dd45e7650c82ddffba73a45f2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_d3c22104b21ba74eb41424a3889d9a2a5882ad51.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_547b2931199e2447624f55e33d3c6c02465e3f62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e0ef83d0e145edcc76d3963b944c8e75b2f6afc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/ee337a5672b68724786d80f236604d655b16fc52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_8c02b9ef14f84d7441ce5a254703bf52c722b0ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/e8324fe11b78c49bd7f7be958975d8c0cd2b9dd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_258a9001874b511c7cde353243a3ea3fa4797a56.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/.android/build-cache/ee337a5672b68724786d80f236604d655b16fc52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c02b9ef14f84d7441ce5a254703bf52c722b0ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/.android/build-cache/e8324fe11b78c49bd7f7be958975d8c0cd2b9dd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_258a9001874b511c7cde353243a3ea3fa4797a56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/.android/build-cache/2c348a2ac63ca42bb89def40e843b87686206a0f/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\guith\Desktop\Mi-Band-master\MiBandBlink\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a718d015043382262432f209b167d156aa19080\classes.dex" />
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e2b1391a6f619c66e18cbbab76d1c4f044e09e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c9ed0feb4710c924f1dae8b00409d6f3c005897">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2041b46a28fb70af84d8848c8752a3a09705469e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/2c348a2ac63ca42bb89def40e843b87686206a0f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_2e2b1391a6f619c66e18cbbab76d1c4f044e09e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/5888159d667a6ca3c0ba2ecb8d8b9d0e2d8db70c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_5cd9eb1ae10f9b2162a355105e068b9cba0103d0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/.android/build-cache/5892e2ab9c2e92f781a56b4bf3f24729c2788e6f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e4f1e27362c22f4fe9a7fd7cb2a8e50106c44be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/.android/build-cache/5888159d667a6ca3c0ba2ecb8d8b9d0e2d8db70c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cd9eb1ae10f9b2162a355105e068b9cba0103d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinicius/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_2743b3fa287f6a6123fd22f9520e316891bd091b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_2743b3fa287f6a6123fd22f9520e316891bd091b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/5892e2ab9c2e92f781a56b4bf3f24729c2788e6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/mobile/build/intermediates/pre-dexed/debug/classes_2e4f1e27362c22f4fe9a7fd7cb2a8e50106c44be.jar" />
     </item>
 
 </items>

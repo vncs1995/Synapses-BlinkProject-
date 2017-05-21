@@ -1,46 +1,90 @@
 [
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_full_cancel.png",
+        "source": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/drawable-hdpi-v4/ic_full_cancel.png"
     },
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/vinicius/.android/build-cache/ef0efc14e064f420d8ea083ce570eb005df11379/output/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
     },
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_frame.9.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\drawable-hdpi-v4\\card_frame.9.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/vinicius/.android/build-cache/ef0efc14e064f420d8ea083ce570eb005df11379/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_full_sad.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\drawable-hdpi-v4\\ic_full_sad.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/vinicius/.android/build-cache/ef0efc14e064f420d8ea083ce570eb005df11379/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_frame.9.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\drawable-hdpi-v4\\card_frame.9.png"
     },
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_full_cancel.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\drawable-hdpi-v4\\ic_full_cancel.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/vinicius/.android/build-cache/ef0efc14e064f420d8ea083ce570eb005df11379/output/res/drawable-hdpi-v4/common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_frame_pressed.9.png",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\drawable-hdpi-v4\\card_frame_pressed.9.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/vinicius/.android/build-cache/ef0efc14e064f420d8ea083ce570eb005df11379/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_full_sad.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\drawable-hdpi-v4\\ic_full_sad.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/vinicius/.android/build-cache/ef0efc14e064f420d8ea083ce570eb005df11379/output/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\08f1548d31df438c3e2ae0931f50dce9d1aee757\\output\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_full_sad.png",
+        "source": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/drawable-hdpi-v4/ic_full_sad.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/vinicius/.android/build-cache/ef0efc14e064f420d8ea083ce570eb005df11379/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/card_frame_pressed.9.png",
+        "source": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/drawable-hdpi-v4/card_frame_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_full_cancel.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\drawable-hdpi-v4\\ic_full_cancel.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_frame_pressed.9.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\drawable-hdpi-v4\\card_frame_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/drawable-hdpi-v4/card_frame.9.png",
+        "source": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/drawable-hdpi-v4/card_frame.9.png"
     }
 ]

@@ -1,43 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.example.guith.mibandblink.MainActivity">
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/sample_main_layout"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical">
 
-    <Button
-        android:id="@+id/vibrateButton"
-        style="@style/Widget.AppCompat.Button.Colored"
-        android:layout_width="190dp"
-        android:layout_height="60dp"
-        android:text="Safe"
-        android:textColorLink="@color/colorAccent"
-        tools:layout_editor_absoluteX="97dp"
-        tools:layout_editor_absoluteY="225dp" />
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="nameDevice1"
-        tools:layout_editor_absoluteX="63dp"
-        tools:layout_editor_absoluteY="327dp" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="nameDevice2"
-        tools:layout_editor_absoluteX="63dp"
-        tools:layout_editor_absoluteY="380dp" />
 
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="168dp"
         android:layout_height="162dp"
-        app:srcCompat="@drawable/logo"
-        tools:layout_editor_absoluteX="108dp"
-        tools:layout_editor_absoluteY="40dp" />
+        android:layout_marginLeft="100dp"
+        android:src="@drawable/logo" />
 
-</android.support.constraint.ConstraintLayout>
+    <Button
+
+        android:id="@+id/safeButton"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="190dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="70dp"
+        android:text="Safe"
+        android:textColorLink="@color/colorAccent" />
+
+</LinearLayout>

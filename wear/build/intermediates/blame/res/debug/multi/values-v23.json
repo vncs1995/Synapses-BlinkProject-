@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "outputFile": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 216
                 },
                 "from": {
-                    "file": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-v23\\values.xml",
+                    "file": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-v23\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -33,7 +33,7 @@
                     "endOffset": 384
                 },
                 "from": {
-                    "file": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-v23\\values.xml",
+                    "file": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-v23\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -54,7 +54,7 @@
                     "endOffset": 789
                 },
                 "from": {
-                    "file": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-v23\\values.xml",
+                    "file": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-v23\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -75,7 +75,7 @@
                     "endOffset": 934
                 },
                 "from": {
-                    "file": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-v23\\values.xml",
+                    "file": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-v23\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 0,
@@ -96,7 +96,117 @@
                     "endOffset": 1038
                 },
                 "from": {
-                    "file": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-v23\\values.xml",
+                    "file": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-v23\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 1079,
+                        "endLine": 24,
+                        "endColumn": 8,
+                        "endOffset": 1178
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 8,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/values-v23/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 211,
+                        "endLine": 7,
+                        "endColumn": 8,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endLine": 9,
+                    "endColumn": 8,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/values-v23/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 373,
+                        "endLine": 11,
+                        "endColumn": 8,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endLine": 17,
+                    "endColumn": 8,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/values-v23/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 537,
+                        "endLine": 19,
+                        "endColumn": 8,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endLine": 20,
+                    "endColumn": 8,
+                    "endOffset": 934
+                },
+                "from": {
+                    "file": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/values-v23/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 938,
+                        "endLine": 22,
+                        "endColumn": 8,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 939,
+                    "endLine": 22,
+                    "endColumn": 8,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/values-v23/values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 0,

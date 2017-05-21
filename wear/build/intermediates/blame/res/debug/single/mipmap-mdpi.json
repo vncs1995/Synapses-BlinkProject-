@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

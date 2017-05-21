@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw210dp-v13\\values-sw210dp-v13.xml",
+        "outputFile": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw210dp-v13/values-sw210dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 118
                 },
                 "from": {
-                    "file": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-sw210dp-v13\\values.xml",
+                    "file": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/values-sw210dp-v13/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -30,7 +30,7 @@
                     "endOffset": 182
                 },
                 "from": {
-                    "file": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-sw210dp-v13\\values.xml",
+                    "file": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/values-sw210dp-v13/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -49,7 +49,69 @@
                     "endOffset": 234
                 },
                 "from": {
-                    "file": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-sw210dp-v13\\values.xml",
+                    "file": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/values-sw210dp-v13/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 339,
+                        "endColumn": 47,
+                        "endOffset": 386
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw210dp-v13\\values-sw210dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 67,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-sw210dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 215,
+                        "endColumn": 63,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 63,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-sw210dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 279,
+                        "endColumn": 59,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 51,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\values-sw210dp-v13\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,

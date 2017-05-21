@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\animator-v21\\circular_image_button_anim.xml",
-        "source": "C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\animator-v21\\circular_image_button_anim.xml"
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/wear/build/intermediates/res/merged/debug/animator-v21/circular_image_button_anim.xml",
+        "source": "/Users/vinicius/.android/build-cache/367e85ebbea75b298569c106b1416e7d08b423f4/output/res/animator-v21/circular_image_button_anim.xml"
+    },
+    {
+        "merged": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\Desktop\\Mi-Band-master\\MiBandBlink\\wear\\build\\intermediates\\res\\merged\\debug\\animator-v21\\circular_image_button_anim.xml",
+        "source": "/Users/vinicius/AndroidStudioProjects/Synapses-BlinkProject-/C:\\Users\\guith\\.android\\build-cache\\1cf74b1ed505a94ebfcf9b7dd5fc2380d6a5b7f6\\output\\res\\animator-v21\\circular_image_button_anim.xml"
     }
 ]
